@@ -1,0 +1,955 @@
+Employee Number,Termination Date,Reason for Leaving
+173256,25-01-2020,Got better opportunity
+684562,27-02-2020,Got permanent job
+281926,28-03-2020,Got permanent job
+295436,20-04-2020,Got permanent job
+205220,09-05-2020,Got permanent job
+300568,12-05-2020,Got permanent job
+826809,14-06-2020,Contract ended
+738051,17-07-2020,Contract ended
+128699,18-07-2020,Got permanent job
+229233,14-08-2020,Got permanent job
+839358,19-08-2020,Contract ended
+318307,20-08-2020,Got permanent job
+373486,02-09-2020,Got better opportunity
+475025,08-09-2020,Got permanent job
+303617,14-10-2020,Got better opportunity
+751786,16-10-2020,Got better opportunity
+572959,06-11-2020,Got better opportunity
+806650,06-11-2020,Got better opportunity
+348855,01-12-2020,Got better opportunity
+419814,06-12-2020,Got better opportunity
+133688,07-12-2020,Contract ended
+983213,11-12-2020,Got permanent job
+719546,18-12-2020,Got better opportunity
+114865,27-12-2020,Contract ended
+213003,08-01-2021,Contract ended
+488910,10-01-2021,Got permanent job
+478182,25-01-2021,Got permanent job
+493561,01-02-2021,Got permanent job
+244996,21-02-2021,Got permanent job
+219474,09-03-2021,Got better opportunity
+141580,21-03-2021,Got better opportunity
+935560,30-03-2021,Got permanent job
+532579,07-04-2021,Contract ended
+200966,17-04-2021,Contract ended
+599097,24-04-2021,Got permanent job
+156319,25-04-2021,Contract ended
+559682,01-05-2021,Contract ended
+507208,23-05-2021,Got better opportunity
+211908,27-05-2021,Assignment Completed
+981094,01-06-2021,Got permanent job
+176332,18-06-2021,Got permanent job
+650291,27-06-2021,Contract ended
+668665,29-06-2021,Got better opportunity
+321862,18-07-2021,Contract ended
+376735,19-07-2021,Contract ended
+599503,20-07-2021,Got better opportunity
+353536,23-07-2021,Contract ended
+197108,07-08-2021,Contract ended
+962483,08-08-2021,Contract ended
+279615,18-08-2021,Got better opportunity
+466075,19-08-2021,Got permanent job
+568112,20-08-2021,Got better opportunity
+992944,23-08-2021,Contract ended
+226908,28-08-2021,Got permanent job
+175375,29-08-2021,Contract ended
+927690,01-09-2021,Contract ended
+257522,01-09-2021,Got better opportunity
+407188,02-09-2021,Got better opportunity
+264155,03-09-2021,Got better opportunity
+551585,13-09-2021,Contract ended
+595031,14-09-2021,Got permanent job
+705572,17-09-2021,Contract ended
+729179,23-09-2021,Contract non-renewal
+521167,26-09-2021,Got better opportunity
+968711,29-09-2021,Contract ended
+556640,30-09-2021,Contract ended
+498314,06-10-2021,Got better opportunity
+589357,10-10-2021,Problem with Manager
+367619,25-10-2021,Problem with Manager
+275171,26-10-2021,Got permanent job
+492852,27-10-2021,Problem with Manager
+126054,27-10-2021,Problem with Manager
+979074,01-11-2021,Contract ended
+165159,04-11-2021,Contract ended
+584417,07-11-2021,Got permanent job
+291379,07-11-2021,Got permanent job
+154952,11-11-2021,Got permanent job
+519204,14-11-2021,Got permanent job
+349222,17-11-2021,Contract non-renewal
+154261,20-11-2021,Got permanent job
+659695,20-11-2021,Got permanent job
+814160,05-12-2021,Contract ended
+634727,07-12-2021,Got permanent job
+838996,08-12-2021,Contract ended
+706804,10-12-2021,Problem with Manager
+297393,10-12-2021,Problem with Manager
+484890,11-12-2021,Contract ended
+639107,11-12-2021,Contract ended
+147655,12-12-2021,Contract ended
+321120,14-12-2021,Got permanent job
+324004,14-12-2021,Got permanent job
+568321,15-12-2021,Got permanent job
+541559,20-12-2021,Problem with Manager
+972820,25-12-2021,Got permanent job
+481700,26-12-2021,Got permanent job
+503841,26-12-2021,Problem with Manager
+344603,27-12-2021,Problem with Manager
+400894,27-12-2021,Problem with Manager
+228889,10-01-2022,Problem with Manager
+327068,11-01-2022,Got permanent job
+524998,11-01-2022,Saw no growth
+858909,13-01-2022,Got permanent job
+537630,17-01-2022,Saw no growth
+250278,20-01-2022,Got permanent job
+725696,23-01-2022,Contract ended
+791967,24-01-2022,Saw no growth
+915384,25-01-2022,Saw no growth
+517111,26-01-2022,Saw no growth
+169421,28-01-2022,Got permanent job
+459094,28-01-2022,Contract ended
+731757,31-01-2022,Saw no growth
+476901,10-02-2022,Saw no growth
+962017,11-02-2022,Saw no growth
+574661,11-02-2022,Contract ended
+344235,13-02-2022,Got permanent job
+303072,16-02-2022,Saw no growth
+276236,17-02-2022,Saw no growth
+911133,20-02-2022,Saw no growth
+642159,21-02-2022,Got permanent job
+690057,24-02-2022,Got permanent job
+778951,24-02-2022,Got permanent job
+692838,28-02-2022,Saw no growth
+974198,09-03-2022,Saw no growth
+586757,16-03-2022,Saw no growth
+572842,20-03-2022,Saw no growth
+728341,21-03-2022,Got permanent job
+732668,22-03-2022,Got permanent job
+402277,24-03-2022,Saw no growth
+863329,27-03-2022,Got permanent job
+987274,27-03-2022,Got permanent job
+156499,27-03-2022,Saw no growth
+537893,29-03-2022,Contract ended
+160761,01-04-2022,Saw no growth
+593257,05-04-2022,Saw no growth
+212173,07-04-2022,Saw no growth
+289254,07-04-2022,Got permanent job
+407270,08-04-2022,Saw no growth
+614919,10-04-2022,Saw no growth
+690510,23-04-2022,Contract ended
+792634,02-05-2022,Contract ended
+761400,03-05-2022,Got better opportunity
+702783,05-05-2022,Got permanent job
+362391,08-05-2022,Got permanent job
+348525,10-05-2022,Got permanent job
+441664,17-05-2022,Contract ended
+880751,19-05-2022,Got permanent job
+377847,20-05-2022,Contract ended
+602015,20-05-2022,Got permanent job
+170009,21-05-2022,Got better opportunity
+758573,25-05-2022,Got permanent job
+841574,26-05-2022,Got better opportunity
+921408,31-05-2022,Got permanent job
+347492,01-06-2022,Got permanent job
+611564,01-06-2022,Got better opportunity
+116419,03-06-2022,Got better opportunity
+615934,04-06-2022,Contract ended
+476679,07-06-2022,Got permanent job
+978227,07-06-2022,Assignment Completed
+384461,07-06-2022,Got permanent job
+544342,12-06-2022,Got better opportunity
+711008,22-06-2022,Got better opportunity
+143807,22-06-2022,Contract ended
+957457,22-06-2022,Got better opportunity
+581878,24-06-2022,Assignment Completed
+500767,26-06-2022,Got better opportunity
+404074,28-06-2022,Got permanent job
+392581,28-06-2022,Contract ended
+681309,03-07-2022,Contract ended
+616456,03-07-2022,Contract ended
+344581,03-07-2022,Contract ended
+521513,09-07-2022,Got permanent job
+706112,11-07-2022,Contract non-renewal
+420947,11-07-2022,Contract ended
+645757,16-07-2022,Got better opportunity
+145281,18-07-2022,Got permanent job
+720807,22-07-2022,Got better opportunity
+286527,23-07-2022,Contract ended
+674200,24-07-2022,Got permanent job
+818452,26-07-2022,Got better opportunity
+369435,30-07-2022,Contract ended
+270299,01-08-2022,Got better opportunity
+820601,02-08-2022,Contract ended
+214378,07-08-2022,Contract ended
+398877,07-08-2022,Got permanent job
+297769,07-08-2022,Contract ended
+387401,08-08-2022,Got better opportunity
+624783,09-08-2022,Got permanent job
+584435,12-08-2022,Got permanent job
+105043,15-08-2022,Got better opportunity
+192626,16-08-2022,Contract ended
+769367,18-08-2022,Got permanent job
+923852,18-08-2022,Got better opportunity
+781727,20-08-2022,Contract ended
+135907,23-08-2022,Contract ended
+165527,24-08-2022,Got better opportunity
+187859,28-08-2022,Problem with Manager
+360334,29-08-2022,Got permanent job
+406073,30-08-2022,Got permanent job
+139762,31-08-2022,Got permanent job
+584411,01-09-2022,Contract ended
+804802,04-09-2022,Got permanent job
+774696,06-09-2022,Contract ended
+367804,06-09-2022,Problem with Manager
+350889,10-09-2022,Contract ended
+373150,15-09-2022,Contract non-renewal
+285102,15-09-2022,Got permanent job
+204818,21-09-2022,Got permanent job
+316252,22-09-2022,Got permanent job
+236449,22-09-2022,Got permanent job
+571702,23-09-2022,Got permanent job
+256636,24-09-2022,Contract ended
+537238,27-09-2022,Got permanent job
+526845,27-09-2022,Contract ended
+455209,28-09-2022,Contract ended
+253237,03-10-2022,Assignment Completed
+477678,05-10-2022,Problem with Manager
+246698,05-10-2022,Contract ended
+307453,06-10-2022,Contract ended
+986027,06-10-2022,Problem with Manager
+604523,06-10-2022,Got permanent job
+646053,10-10-2022,Got permanent job
+775879,13-10-2022,Got permanent job
+730388,15-10-2022,Contract ended
+776573,15-10-2022,Contract ended
+943524,18-10-2022,Got permanent job
+423636,18-10-2022,Contract ended
+522113,23-10-2022,Got permanent job
+109517,28-10-2022,Got permanent job
+520623,31-10-2022,Got permanent job
+162945,01-11-2022,Got permanent job
+204673,01-11-2022,Got permanent job
+284056,01-11-2022,Problem with Manager
+829164,02-11-2022,Problem with Manager
+869443,03-11-2022,Contract ended
+575193,04-11-2022,Contract non-renewal
+546383,05-11-2022,Got permanent job
+772465,09-11-2022,Contract ended
+508364,11-11-2022,Contract ended
+815591,15-11-2022,Got permanent job
+326733,16-11-2022,Contract ended
+973343,17-11-2022,Contract ended
+542876,18-11-2022,Problem with Manager
+490449,20-11-2022,Got permanent job
+664290,23-11-2022,Contract ended
+562140,25-11-2022,Got permanent job
+816826,28-11-2022,Contract ended
+699245,28-11-2022,Problem with Manager
+908367,03-12-2022,Contract ended
+476997,08-12-2022,Contract ended
+941245,14-12-2022,Got permanent job
+982340,16-12-2022,Contract ended
+794282,17-12-2022,Problem with Manager
+144139,18-12-2022,Contract ended
+244548,19-12-2022,Got permanent job
+845062,20-12-2022,Assignment Completed
+947004,21-12-2022,Problem with Manager
+181665,23-12-2022,Contract ended
+505498,24-12-2022,Got permanent job
+474225,24-12-2022,Contract ended
+580465,24-12-2022,Got permanent job
+908778,24-12-2022,Got permanent job
+426477,24-12-2022,Got permanent job
+579043,25-12-2022,Assignment Completed
+978405,26-12-2022,Problem with Manager
+226360,27-12-2022,Got permanent job
+996579,03-01-2023,Problem with Manager
+775983,03-01-2023,Got permanent job
+517425,04-01-2023,Contract ended
+517708,07-01-2023,Contract ended
+122933,09-01-2023,Got permanent job
+663999,13-01-2023,Got permanent job
+321596,19-01-2023,Problem with Manager
+309973,25-01-2023,Contract ended
+234236,31-01-2023,Problem with Manager
+960067,02-02-2023,Problem with Manager
+185880,03-02-2023,Problem with Manager
+960704,04-02-2023,Problem with Manager
+487803,05-02-2023,Assignment Completed
+370079,06-02-2023,No Increment
+674628,10-02-2023,Contract non-renewal
+548667,10-02-2023,No Increment
+316924,12-02-2023,Contract ended
+563521,14-02-2023,Got permanent job
+350998,15-02-2023,Got permanent job
+128890,18-02-2023,Assignment Completed
+697578,21-02-2023,Got permanent job
+695961,21-02-2023,Contract ended
+833242,23-02-2023,Contract ended
+840845,23-02-2023,Assignment Completed
+931861,23-02-2023,No Increment
+669415,23-02-2023,No Increment
+124134,28-02-2023,Got permanent job
+918694,02-03-2023,Got permanent job
+130810,03-03-2023,Assignment Completed
+259990,04-03-2023,Contract ended
+372699,04-03-2023,No Increment
+655711,05-03-2023,Contract ended
+532707,05-03-2023,No Increment
+612592,08-03-2023,Got permanent job
+642830,09-03-2023,Contract ended
+759450,10-03-2023,No Increment
+757022,11-03-2023,Got permanent job
+439836,13-03-2023,Contract ended
+835698,17-03-2023,Assignment Completed
+384094,23-03-2023,Contract ended
+444470,26-03-2023,Contract ended
+228402,26-03-2023,Got permanent job
+429480,30-03-2023,Contract ended
+530979,03-04-2023,No Increment
+322806,03-04-2023,Contract ended
+811898,05-04-2023,Got permanent job
+714650,05-04-2023,No Increment
+839049,05-04-2023,Contract non-renewal
+247972,05-04-2023,No Increment
+403410,06-04-2023,Got permanent job
+784376,06-04-2023,Contract ended
+525715,07-04-2023,No Increment
+461298,09-04-2023,No Increment
+116226,10-04-2023,Got permanent job
+883023,12-04-2023,Contract ended
+684787,13-04-2023,Got permanent job
+147823,13-04-2023,Got permanent job
+593984,13-04-2023,Got permanent job
+472160,14-04-2023,No Increment
+680956,14-04-2023,Contract ended
+631650,16-04-2023,Got permanent job
+325801,16-04-2023,Contract ended
+609965,17-04-2023,Contract ended
+586150,20-04-2023,Contract ended
+236454,21-04-2023,Contract ended
+226064,21-04-2023,Got permanent job
+794951,21-04-2023,Got permanent job
+786828,22-04-2023,Got permanent job
+950618,22-04-2023,Got permanent job
+578963,23-04-2023,Got permanent job
+676302,25-04-2023,No Increment
+324966,25-04-2023,Contract ended
+849714,25-04-2023,No Increment
+955331,26-04-2023,Got permanent job
+203279,28-04-2023,No Increment
+115940,28-04-2023,Got permanent job
+955863,29-04-2023,Contract non-renewal
+570168,30-04-2023,Got permanent job
+781470,30-04-2023,Got permanent job
+526413,30-04-2023,Got permanent job
+458645,30-04-2023,Got permanent job
+872021,01-05-2023,Assignment Completed
+970114,02-05-2023,Contract ended
+603105,05-05-2023,No Increment
+185746,10-05-2023,Got permanent job
+392097,10-05-2023,Got permanent job
+103246,12-05-2023,No Increment
+475256,14-05-2023,Contract ended
+418829,15-05-2023,No Increment
+748209,15-05-2023,No Increment
+444963,22-05-2023,Got permanent job
+166022,23-05-2023,Saw no growth
+885155,24-05-2023,Assignment Completed
+441776,24-05-2023,Got permanent job
+539528,24-05-2023,Saw no growth
+151697,25-05-2023,Contract ended
+119495,25-05-2023,Saw no growth
+356883,30-05-2023,Saw no growth
+195635,30-05-2023,Saw no growth
+278128,30-05-2023,Got permanent job
+412909,31-05-2023,Got permanent job
+906713,02-06-2023,Saw no growth
+863709,03-06-2023,Contract ended
+893958,03-06-2023,Got permanent job
+813630,03-06-2023,Got permanent job
+147048,03-06-2023,Got permanent job
+106326,06-06-2023,Contract ended
+513684,07-06-2023,Contract ended
+595178,07-06-2023,Got permanent job
+838000,10-06-2023,Got permanent job
+212875,10-06-2023,Contract ended
+369499,11-06-2023,Saw no growth
+693976,12-06-2023,Saw no growth
+483285,14-06-2023,Contract ended
+604869,14-06-2023,Saw no growth
+586622,16-06-2023,Saw no growth
+404692,18-06-2023,Got permanent job
+580289,18-06-2023,Contract ended
+823007,19-06-2023,Saw no growth
+781845,20-06-2023,Contract ended
+583272,21-06-2023,Got permanent job
+362085,21-06-2023,Got permanent job
+354949,22-06-2023,Contract ended
+991779,26-06-2023,Got permanent job
+280185,01-07-2023,Contract ended
+662717,03-07-2023,Got permanent job
+671852,03-07-2023,Saw no growth
+925358,07-07-2023,Contract ended
+317610,08-07-2023,Saw no growth
+454503,10-07-2023,Saw no growth
+662108,11-07-2023,Saw no growth
+309404,13-07-2023,Contract ended
+595842,16-07-2023,Got permanent job
+291620,17-07-2023,Got permanent job
+509445,17-07-2023,Assignment Completed
+893513,17-07-2023,Contract ended
+885594,17-07-2023,Saw no growth
+456977,18-07-2023,Got permanent job
+904979,20-07-2023,Got permanent job
+748057,20-07-2023,Saw no growth
+116596,21-07-2023,Contract ended
+944687,23-07-2023,Saw no growth
+154605,24-07-2023,Contract non-renewal
+615543,25-07-2023,Got permanent job
+667191,26-07-2023,Saw no growth
+777050,26-07-2023,Contract ended
+465906,27-07-2023,Assignment Completed
+356974,27-07-2023,Saw no growth
+128054,28-07-2023,Contract ended
+893952,28-07-2023,Got permanent job
+377292,28-07-2023,Saw no growth
+705179,31-07-2023,Got permanent job
+804945,31-07-2023,Contract ended
+863668,01-08-2023,Assignment Completed
+760877,01-08-2023,Assignment Completed
+855039,02-08-2023,Saw no growth
+138358,02-08-2023,Got permanent job
+126224,04-08-2023,Saw no growth
+219618,07-08-2023,Got permanent job
+119914,08-08-2023,Contract ended
+152590,08-08-2023,Got permanent job
+896282,11-08-2023,Got permanent job
+551492,12-08-2023,Saw no growth
+958026,13-08-2023,Got permanent job
+253832,14-08-2023,Saw no growth
+105965,14-08-2023,Got permanent job
+720699,14-08-2023,Got permanent job
+118578,14-08-2023,Saw no growth
+457102,16-08-2023,Got permanent job
+633936,17-08-2023,Saw no growth
+618569,18-08-2023,Contract non-renewal
+722544,19-08-2023,Saw no growth
+263897,20-08-2023,Got permanent job
+318714,20-08-2023,Saw no growth
+800336,22-08-2023,Contract ended
+163989,23-08-2023,Contract ended
+118681,23-08-2023,Got permanent job
+679523,24-08-2023,Got permanent job
+176395,24-08-2023,Saw no growth
+585524,26-08-2023,Got permanent job
+406176,28-08-2023,Contract non-renewal
+892458,29-08-2023,Assignment Completed
+553239,30-08-2023,Got permanent job
+287500,31-08-2023,Saw no growth
+159149,03-09-2023,Got permanent job
+978002,03-09-2023,Contract ended
+876166,04-09-2023,Problem with Manager
+494718,04-09-2023,Problem with Manager
+380915,06-09-2023,Got permanent job
+247524,07-09-2023,Got permanent job
+184661,09-09-2023,Problem with Manager
+672179,10-09-2023,Got permanent job
+489393,10-09-2023,Contract ended
+707847,11-09-2023,Got permanent job
+300849,13-09-2023,Got permanent job
+226133,13-09-2023,Problem with Manager
+119128,14-09-2023,Problem with Manager
+433306,15-09-2023,Contract ended
+623752,18-09-2023,Problem with Manager
+331087,19-09-2023,Problem with Manager
+445020,20-09-2023,Problem with Manager
+337805,21-09-2023,Got permanent job
+431214,23-09-2023,Problem with Manager
+457083,24-09-2023,Contract ended
+687301,26-09-2023,Got permanent job
+716657,27-09-2023,Problem with Manager
+660756,27-09-2023,Got permanent job
+501980,27-09-2023,Contract ended
+508271,28-09-2023,Got permanent job
+666901,28-09-2023,Contract ended
+911974,29-09-2023,Contract ended
+765442,30-09-2023,Contract ended
+277848,03-10-2023,Problem with Manager
+627413,09-10-2023,Problem with Manager
+417954,09-10-2023,Problem with Manager
+926209,10-10-2023,Got permanent job
+990446,10-10-2023,Got permanent job
+773677,11-10-2023,Contract ended
+446608,13-10-2023,Problem with Manager
+448575,14-10-2023,Contract ended
+585257,16-10-2023,Got permanent job
+690517,18-10-2023,Contract ended
+606872,20-10-2023,Contract ended
+729083,20-10-2023,Contract non-renewal
+112874,21-10-2023,Got permanent job
+756524,22-10-2023,Problem with Manager
+967518,22-10-2023,Contract ended
+372339,24-10-2023,Problem with Manager
+723060,24-10-2023,Contract non-renewal
+444011,28-10-2023,Got permanent job
+986004,28-10-2023,Assignment Completed
+449501,28-10-2023,Contract ended
+708650,30-10-2023,Got permanent job
+827985,31-10-2023,Got permanent job
+172610,31-10-2023,Problem with Manager
+697732,02-11-2023,Got permanent job
+178061,02-11-2023,Got permanent job
+164099,03-11-2023,Got permanent job
+631574,03-11-2023,Got permanent job
+170931,04-11-2023,Got permanent job
+589035,04-11-2023,Got permanent job
+215827,05-11-2023,Contract ended
+320208,06-11-2023,Problem with Manager
+981211,06-11-2023,Problem with Manager
+692804,06-11-2023,Got permanent job
+347723,07-11-2023,Problem with Manager
+796206,07-11-2023,Assignment Completed
+581770,07-11-2023,Problem with Manager
+773876,08-11-2023,Got permanent job
+217024,09-11-2023,Got better opportunity
+138088,10-11-2023,Assignment Completed
+533859,10-11-2023,Got better opportunity
+567628,10-11-2023,Got better opportunity
+397196,14-11-2023,Contract ended
+658444,14-11-2023,Contract ended
+472201,19-11-2023,Got permanent job
+835491,19-11-2023,Contract ended
+199606,21-11-2023,Got better opportunity
+491790,22-11-2023,Got permanent job
+197157,24-11-2023,Contract ended
+212816,24-11-2023,Got permanent job
+241341,26-11-2023,Contract ended
+776454,26-11-2023,Got better opportunity
+442633,27-11-2023,Got permanent job
+147300,28-11-2023,Got permanent job
+930553,29-11-2023,Contract ended
+989416,30-11-2023,Got better opportunity
+380777,03-12-2023,Contract ended
+876042,04-12-2023,Got permanent job
+226036,04-12-2023,Contract ended
+157745,05-12-2023,Got better opportunity
+201390,05-12-2023,Contract ended
+208036,05-12-2023,Got permanent job
+849876,05-12-2023,Got better opportunity
+111144,06-12-2023,Got permanent job
+859207,07-12-2023,Got better opportunity
+302072,07-12-2023,Got permanent job
+751437,07-12-2023,Got better opportunity
+299729,09-12-2023,Got permanent job
+956671,09-12-2023,Got permanent job
+763412,11-12-2023,Contract ended
+604122,12-12-2023,Got permanent job
+605599,12-12-2023,Got better opportunity
+459415,12-12-2023,Contract ended
+145981,12-12-2023,Got permanent job
+340354,13-12-2023,Contract ended
+335266,13-12-2023,Got permanent job
+709313,15-12-2023,Got better opportunity
+557151,15-12-2023,Contract ended
+685900,16-12-2023,Got permanent job
+377256,18-12-2023,Got permanent job
+997505,18-12-2023,Got permanent job
+626185,18-12-2023,Got better opportunity
+584094,18-12-2023,Got better opportunity
+269049,19-12-2023,Contract ended
+676228,19-12-2023,Contract ended
+263339,19-12-2023,Got better opportunity
+430600,20-12-2023,Got permanent job
+278724,20-12-2023,Got permanent job
+122460,21-12-2023,Got better opportunity
+202528,22-12-2023,Contract ended
+953979,28-12-2023,Got permanent job
+495126,30-12-2023,Got permanent job
+121877,30-12-2023,Got better opportunity
+781120,31-12-2023,Got permanent job
+138990,02-01-2024,Contract non-renewal
+793610,03-01-2024,Got permanent job
+542243,04-01-2024,Got better opportunity
+960953,04-01-2024,Got better opportunity
+781960,05-01-2024,Contract ended
+934174,06-01-2024,Assignment Completed
+458793,06-01-2024,Got permanent job
+337240,07-01-2024,Got better opportunity
+224326,14-01-2024,Got better opportunity
+213934,14-01-2024,Got better opportunity
+369931,14-01-2024,Got better opportunity
+621585,14-01-2024,Got better opportunity
+270380,15-01-2024,Got permanent job
+645354,15-01-2024,Contract ended
+418869,17-01-2024,Got better opportunity
+649475,17-01-2024,Got better opportunity
+327320,17-01-2024,Got better opportunity
+827978,18-01-2024,Got permanent job
+742318,21-01-2024,Got better opportunity
+571021,22-01-2024,Problem with Manager
+614739,22-01-2024,Contract ended
+357109,22-01-2024,Assignment Completed
+477937,23-01-2024,Got permanent job
+715200,24-01-2024,Contract ended
+745432,25-01-2024,Contract ended
+681992,27-01-2024,Contract ended
+425956,28-01-2024,Problem with Manager
+395257,29-01-2024,Problem with Manager
+237231,29-01-2024,Got permanent job
+641438,29-01-2024,Contract ended
+510481,29-01-2024,Got permanent job
+535503,29-01-2024,Contract non-renewal
+413009,30-01-2024,Contract ended
+840268,30-01-2024,Got permanent job
+345178,31-01-2024,Got permanent job
+314552,31-01-2024,Contract ended
+491795,01-02-2024,Got permanent job
+200436,02-02-2024,Problem with Manager
+373743,02-02-2024,Got permanent job
+830590,02-02-2024,Got permanent job
+312631,03-02-2024,Problem with Manager
+442683,04-02-2024,Got permanent job
+937872,04-02-2024,Contract ended
+552537,04-02-2024,Got permanent job
+793040,05-02-2024,Problem with Manager
+395232,05-02-2024,Got permanent job
+310786,05-02-2024,Got permanent job
+773103,07-02-2024,Got permanent job
+599719,08-02-2024,Problem with Manager
+814160,10-02-2024,Contract ended
+657536,10-02-2024,Got permanent job
+261362,12-02-2024,Got permanent job
+446889,12-02-2024,Got permanent job
+195113,13-02-2024,Got permanent job
+461771,16-02-2024,Got permanent job
+551122,17-02-2024,Contract ended
+378379,17-02-2024,Problem with Manager
+259204,17-02-2024,Problem with Manager
+684596,18-02-2024,Got permanent job
+244692,19-02-2024,Contract ended
+700851,20-02-2024,Got permanent job
+495286,20-02-2024,Contract ended
+851654,23-02-2024,Contract ended
+141273,24-02-2024,Contract ended
+637536,24-02-2024,Problem with Manager
+486027,25-02-2024,Problem with Manager
+184292,26-02-2024,Assignment Completed
+160401,26-02-2024,Contract ended
+833072,28-02-2024,Got permanent job
+931718,29-02-2024,Problem with Manager
+477993,29-02-2024,Problem with Manager
+227402,01-03-2024,Contract ended
+181193,01-03-2024,Contract ended
+569722,01-03-2024,Got permanent job
+495238,03-03-2024,Got permanent job
+283799,03-03-2024,Contract ended
+377984,03-03-2024,Contract ended
+188739,05-03-2024,Contract ended
+989601,06-03-2024,Contract ended
+388188,06-03-2024,Contract ended
+808746,07-03-2024,Problem with Manager
+540909,07-03-2024,Got permanent job
+677990,08-03-2024,Got permanent job
+979426,08-03-2024,Problem with Manager
+670036,08-03-2024,Got permanent job
+175326,08-03-2024,Contract ended
+280001,09-03-2024,Problem with Manager
+450438,10-03-2024,Got permanent job
+724772,10-03-2024,Got permanent job
+666064,10-03-2024,Contract ended
+694588,11-03-2024,Got permanent job
+528684,11-03-2024,Problem with Manager
+795644,11-03-2024,Got permanent job
+689804,12-03-2024,Problem with Manager
+623506,12-03-2024,Got permanent job
+746716,13-03-2024,Contract ended
+690950,14-03-2024,Problem with Manager
+933881,15-03-2024,Contract ended
+654297,16-03-2024,Problem with Manager
+672858,17-03-2024,Problem with Manager
+489193,17-03-2024,Contract ended
+384741,18-03-2024,Contract ended
+531720,18-03-2024,Contract ended
+404677,19-03-2024,Problem with Manager
+794529,20-03-2024,Problem with Manager
+209765,21-03-2024,Got permanent job
+383271,21-03-2024,Got permanent job
+127977,22-03-2024,Contract ended
+147674,23-03-2024,Got permanent job
+848584,24-03-2024,Problem with Manager
+163534,25-03-2024,Problem with Manager
+331922,25-03-2024,Got permanent job
+253173,28-03-2024,Contract non-renewal
+591039,28-03-2024,Problem with Manager
+434125,28-03-2024,Got permanent job
+650960,29-03-2024,Contract ended
+624512,29-03-2024,Contract ended
+213771,29-03-2024,Assignment Completed
+145068,29-03-2024,Got permanent job
+658005,30-03-2024,Got permanent job
+800111,01-04-2024,Problem with Manager
+914799,02-04-2024,Got permanent job
+256694,03-04-2024,Contract ended
+681381,03-04-2024,Got permanent job
+717315,03-04-2024,Contract ended
+722442,03-04-2024,Contract ended
+347485,04-04-2024,Got permanent job
+124359,04-04-2024,Contract non-renewal
+106854,04-04-2024,Contract ended
+446516,05-04-2024,Contract ended
+824865,07-04-2024,Contract ended
+171943,08-04-2024,Problem with Manager
+680991,08-04-2024,Got permanent job
+349975,09-04-2024,Problem with Manager
+665520,09-04-2024,Contract ended
+703791,10-04-2024,Problem with Manager
+583070,10-04-2024,Problem with Manager
+548622,11-04-2024,Got permanent job
+979954,11-04-2024,Problem with Manager
+516211,11-04-2024,Contract ended
+368373,11-04-2024,Contract ended
+140731,12-04-2024,Got permanent job
+858491,12-04-2024,Got permanent job
+780514,12-04-2024,Got permanent job
+749897,13-04-2024,Problem with Manager
+419120,13-04-2024,Problem with Manager
+489043,13-04-2024,Got permanent job
+764524,14-04-2024,Got permanent job
+392913,14-04-2024,Problem with Manager
+776225,14-04-2024,Problem with Manager
+824497,14-04-2024,Contract ended
+835038,15-04-2024,Contract ended
+238925,15-04-2024,Problem with Manager
+300994,16-04-2024,Saw no growth
+116935,16-04-2024,Got permanent job
+227220,16-04-2024,Contract ended
+411354,16-04-2024,Got permanent job
+360691,17-04-2024,Contract ended
+109009,17-04-2024,Got permanent job
+332497,18-04-2024,Assignment Completed
+641567,18-04-2024,Saw no growth
+449418,19-04-2024,Got permanent job
+846912,20-04-2024,Got permanent job
+593935,20-04-2024,Saw no growth
+827417,20-04-2024,Saw no growth
+973294,21-04-2024,Saw no growth
+189931,21-04-2024,Saw no growth
+980562,21-04-2024,Contract ended
+786357,22-04-2024,Got permanent job
+559383,23-04-2024,Saw no growth
+232364,23-04-2024,Saw no growth
+645516,25-04-2024,Got permanent job
+916843,25-04-2024,Got permanent job
+859763,25-04-2024,Contract ended
+676263,26-04-2024,Got permanent job
+168086,26-04-2024,Got permanent job
+915152,26-04-2024,Assignment Completed
+197735,27-04-2024,Contract ended
+439650,28-04-2024,Contract ended
+355393,30-04-2024,Contract ended
+384196,30-04-2024,Saw no growth
+222717,01-05-2024,Assignment Completed
+478309,01-05-2024,Got permanent job
+121599,01-05-2024,Contract ended
+501408,02-05-2024,Saw no growth
+843678,02-05-2024,Got permanent job
+970969,03-05-2024,Saw no growth
+779415,03-05-2024,Contract ended
+934751,03-05-2024,Got permanent job
+487781,03-05-2024,Saw no growth
+259087,03-05-2024,Got permanent job
+671779,04-05-2024,Got permanent job
+760009,05-05-2024,Got permanent job
+794765,05-05-2024,Contract ended
+557397,06-05-2024,Saw no growth
+606959,06-05-2024,Contract ended
+880875,08-05-2024,Got permanent job
+345996,08-05-2024,Assignment Completed
+264937,09-05-2024,Contract ended
+404672,10-05-2024,Got permanent job
+174979,11-05-2024,Saw no growth
+250153,11-05-2024,Saw no growth
+893230,11-05-2024,Saw no growth
+172748,11-05-2024,Got permanent job
+599098,12-05-2024,Saw no growth
+608197,12-05-2024,Contract ended
+208623,13-05-2024,Got permanent job
+793736,13-05-2024,Saw no growth
+595012,13-05-2024,Got permanent job
+809787,13-05-2024,Contract ended
+128856,13-05-2024,Contract ended
+769934,14-05-2024,Got permanent job
+527890,15-05-2024,Saw no growth
+274421,15-05-2024,Got permanent job
+170421,16-05-2024,Got permanent job
+459985,16-05-2024,Got permanent job
+450562,16-05-2024,Saw no growth
+719963,16-05-2024,Contract ended
+966072,16-05-2024,Got permanent job
+912178,16-05-2024,Saw no growth
+645776,16-05-2024,Got permanent job
+822192,17-05-2024,Contract ended
+586292,17-05-2024,Saw no growth
+536925,17-05-2024,Saw no growth
+847045,17-05-2024,Contract ended
+498755,18-05-2024,Got permanent job
+791226,18-05-2024,Contract ended
+391525,19-05-2024,Saw no growth
+605038,19-05-2024,Saw no growth
+458724,19-05-2024,Contract ended
+844372,19-05-2024,Got permanent job
+672716,19-05-2024,Got permanent job
+876291,20-05-2024,Saw no growth
+317984,20-05-2024,Got permanent job
+516203,20-05-2024,Got permanent job
+186316,20-05-2024,Contract ended
+852124,20-05-2024,Got permanent job
+893264,21-05-2024,Saw no growth
+536720,22-05-2024,Got permanent job
+983429,23-05-2024,Got permanent job
+709731,23-05-2024,Contract ended
+887880,24-05-2024,Saw no growth
+494078,24-05-2024,Contract non-renewal
+760983,24-05-2024,Got permanent job
+589523,24-05-2024,Got permanent job
+511943,25-05-2024,Got permanent job
+201549,26-05-2024,Contract ended
+474829,26-05-2024,Saw no growth
+344587,27-05-2024,Got permanent job
+430598,27-05-2024,Contract ended
+217064,28-05-2024,Saw no growth
+574830,29-05-2024,Got permanent job
+611742,29-05-2024,Got permanent job
+322580,29-05-2024,Got permanent job
+323168,30-05-2024,Got permanent job
+535776,30-05-2024,Got permanent job
+181536,31-05-2024,Got permanent job
+218810,31-05-2024,Contract ended
+992602,31-05-2024,Saw no growth
+179462,31-05-2024,Saw no growth
+907741,01-06-2024,Saw no growth
+461795,02-06-2024,Got permanent job
+834210,02-06-2024,Contract ended
+405648,02-06-2024,Got permanent job
+945639,03-06-2024,Got permanent job
+917456,04-06-2024,Saw no growth
+637991,05-06-2024,Saw no growth
+446253,05-06-2024,Got permanent job
+224934,05-06-2024,Saw no growth
+438206,05-06-2024,Saw no growth
+182123,06-06-2024,Saw no growth
+451619,08-06-2024,Contract ended
+439464,09-06-2024,Saw no growth
+897691,09-06-2024,Saw no growth
+913186,09-06-2024,Assignment Completed
+156283,10-06-2024,Contract ended
+318600,12-06-2024,Saw no growth
+172544,12-06-2024,Got permanent job
+468044,13-06-2024,Got permanent job
+573280,13-06-2024,Saw no growth
+592187,13-06-2024,Got permanent job
+305705,13-06-2024,Saw no growth
+118421,14-06-2024,Got permanent job
+485995,15-06-2024,Got permanent job
+151033,15-06-2024,Got permanent job
+499122,15-06-2024,Got permanent job
+354590,16-06-2024,Got permanent job
+678554,16-06-2024,Saw no growth
+823492,16-06-2024,Contract ended
+895249,16-06-2024,Contract ended
+313803,17-06-2024,Got permanent job
+991954,17-06-2024,Got permanent job
+735137,17-06-2024,Got permanent job
+324863,17-06-2024,Got permanent job
+139746,17-06-2024,Saw no growth
+555414,18-06-2024,Contract ended
+817110,18-06-2024,Got permanent job
+492906,19-06-2024,Saw no growth
+271652,20-06-2024,Contract ended
+963482,20-06-2024,Saw no growth
+513705,20-06-2024,Got permanent job
+969170,20-06-2024,Got permanent job
+719336,20-06-2024,Saw no growth
+785035,21-06-2024,Saw no growth
+335142,21-06-2024,Got permanent job
+596254,22-06-2024,Saw no growth
+446575,23-06-2024,Got permanent job
+797657,25-06-2024,Contract ended
+632252,25-06-2024,Contract ended
+280177,27-06-2024,Got permanent job
+335179,27-06-2024,Got permanent job
+389247,28-06-2024,Got permanent job
+514669,28-06-2024,Saw no growth
+498317,29-06-2024,Got permanent job
+753549,29-06-2024,Contract ended
+286664,29-06-2024,Saw no growth
+924211,29-06-2024,Contract ended
+129154,30-06-2024,Contract ended
+953794,30-06-2024,Saw no growth
+689954,01-07-2024,Saw no growth
+725965,01-07-2024,Contract ended
+607027,02-07-2024,Contract ended
+516519,02-07-2024,Got permanent job
+788946,02-07-2024,Got permanent job
+806271,03-07-2024,Saw no growth
+189210,04-07-2024,Saw no growth
+499390,05-07-2024,Got permanent job
+565529,06-07-2024,Got permanent job
+734518,06-07-2024,Saw no growth
+103155,06-07-2024,Saw no growth
+382189,06-07-2024,Contract ended
+671632,07-07-2024,Contract ended
+681437,09-07-2024,Contract ended
+986333,09-07-2024,Contract ended
+503234,09-07-2024,Contract ended
+907478,10-07-2024,Saw no growth
+647602,10-07-2024,Assignment Completed
+648392,10-07-2024,Got permanent job
+928525,10-07-2024,Got permanent job
+718392,10-07-2024,Got permanent job
+959290,10-07-2024,Saw no growth
+547620,11-07-2024,Got permanent job
+587850,11-07-2024,Saw no growth
+970803,11-07-2024,Got permanent job
+463728,12-07-2024,Got permanent job
+505310,12-07-2024,Contract ended
+697909,12-07-2024,Saw no growth
+708449,13-07-2024,Got permanent job
+139331,14-07-2024,Contract ended
+534857,14-07-2024,Contract ended
+792285,14-07-2024,Saw no growth
+846439,14-07-2024,Saw no growth
+865648,14-07-2024,Assignment Completed
+708487,15-07-2024,Got permanent job
+769450,15-07-2024,Got permanent job
+259681,15-07-2024,Contract ended
+964459,16-07-2024,Saw no growth
+688605,16-07-2024,Got permanent job
+204171,16-07-2024,Got permanent job
+675819,16-07-2024,Got permanent job
+347647,17-07-2024,Got permanent job
+720525,17-07-2024,Contract ended
+567125,18-07-2024,Saw no growth
+579052,18-07-2024,Got permanent job
+616429,18-07-2024,Saw no growth
+370095,19-07-2024,Contract ended
+301472,19-07-2024,Saw no growth
+270320,19-07-2024,Got permanent job
+781760,20-07-2024,Got permanent job
+330701,20-07-2024,Contract ended
+635466,21-07-2024,Contract ended
+109748,21-07-2024,Saw no growth
+714956,21-07-2024,Got permanent job
+452249,21-07-2024,Got permanent job
+983960,22-07-2024,Saw no growth
+699804,22-07-2024,Contract ended
+152055,22-07-2024,Contract ended
+117229,22-07-2024,Saw no growth
+731902,22-07-2024,Got permanent job
+962047,22-07-2024,Contract ended
+175666,22-07-2024,Saw no growth
+843033,23-07-2024,Contract ended
+935644,23-07-2024,Contract ended
+739297,23-07-2024,Got permanent job
